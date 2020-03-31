@@ -1,0 +1,27 @@
+{
+  "name": "tour-re",
+  "version": "1.0.0",
+  "description": "Tour Story Interactive Scene Player",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icgro/tour-re.git"
+  },
+  "keywords": [
+    "tour-re"
+  ],
+  "author": "Matt G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icgro/tour-re/issues"
+  },
+  "homepage": "https://github.com/icgro/tour-re#readme"
+}
