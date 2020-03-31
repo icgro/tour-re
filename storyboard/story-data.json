@@ -1,0 +1,20 @@
+{
+    "story": {
+        "scenes": {
+            "scene_1": "Coding",
+            "scene_2": "HTML Before CSS and JavaScript",
+            "scene_3": "A Great Small Team",
+            "scene_4": "Very Large Deployment",
+            "scene_5": "Diagnosis"
+        }
+    },
+    "settings": {
+        "navigation": {
+            "bindings": "{spacebar|right-arrow|left-click|touch}",
+            "path": {
+                "on": "true"
+                "window": "show"
+            }
+        }
+    }
+}
