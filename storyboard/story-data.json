@@ -12,7 +12,7 @@
         "navigation": {
             "bindings": "{spacebar|right-arrow|left-click|touch}",
             "path": {
-                "on": "true"
+                "on": "true",
                 "window": "show"
             }
         }
