@@ -1,11 +1,22 @@
 {
     "story": {
         "scenes": {
-            "scene_1": "Coding",
-            "scene_2": "HTML Before CSS and JavaScript",
-            "scene_3": "A Great Small Team",
-            "scene_4": "Very Large Deployment",
-            "scene_5": "Diagnosis"
+            "scene_1": {
+                "title": "Coding",
+                "act_1": "In 1997 America Online was put on home computers after being shipped on 3.5\" floppy disk for free along with regular mail deliveries and when the World Wide Web part of the Internet was being standardized with HTML and FTP as protocol to get your HTML file to the host servers. A living document that could change over time was the coolest stuff I had ever seen. But let's back up another couple of years to get to the very, very, beginning. It was a Sunday night and I had been with a friend and his family at a church potluck. We eagerly awaited the moment we could finally get back to the DOS PC-Compatible x286 box to play another round of Doom II. Before the World Wide Web we could talk to eachother right in the DOS prompt after dialing a modem from another house. A few more commands I had no clue how my friend learned later and I could see a progress bar with large blocks start to fill from blue to red. My friend would be on the phone line and tell me the commands to open a listener for a new connection before the phone disconnected and the modem started screaching. We had some older tech friends tell us how to connect to a bulletin board system in our local area code. This allowed us access to menus and text based games where our stats could be saved and shown next to other players. Multi User Dungeon games were so compelling just for the reason that our game would be saved somewhere else! Aside from that bit the BBS would link to other BBS and computers in other states so the first 'free' long distance was a plus too. We hit a time somewhere around Windows 95 or 98 when another operating system was offered next to Microsoft Windows (PCs) and Apple (Macintosh) computers that our friend from church was putting on a new server PC box called OS/2. It could run Windows stuff he said. I never was able to see how it worked myself but later broadly became aware of some differences using Haiku, another rebirth with open source pieces built in." 
+            },
+            "scene_2": {
+                "title": "HTML Before CSS and JavaScript"
+            },
+            "scene_3": {
+                "title": "A Great Small Team"
+            },
+            "scene_4": {
+                "title": "Very Large Deployment"
+            },
+            "scene_5": {
+                "title": "Diagnosis"
+            }
         }
     },
     "settings": {
